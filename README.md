@@ -73,8 +73,8 @@ Carbon Intensity = DIVIDE([Total Net Emissions], SUM('greenhouse_gas_emissions'[
 
 ## 📂 Repository Resources
 * Power BI Dashboard File (.pbix): [Download Power BI File](#) *(https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/APPLE%20EMISSION%20ENVIRONMENTAL%20%26%20FINANCIAL%20IMPACT%20DASHBOARD.pbix)*
-* Raw Dataset (CSV/Excel Files): [https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/carbon_footprint_by_product.csv], []https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/greenhouse_gas_emissions.csv,[https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/normalizing_factors.csv](#) *(Placeholder link)*
-* Interactive Live Preview: [https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/Apple%20emission%20dashboard.png](#) *()*
+* Raw Dataset (CSV/Excel Files): [https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/carbon_footprint_by_product.csv], []https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/greenhouse_gas_emissions.csv,[https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/normalizing_factors.csv](#) 
+* Interactive Live Preview: [https://github.com/Joseph-Chibueze-Portfolio/apple-emission-analysis/blob/main/Apple%20emission%20dashboard.png](#) 
 
 ---
 
